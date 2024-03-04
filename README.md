@@ -4,9 +4,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-#Issues:
+# Issues:
 
-##If you encounter a white screen, simply click "Inspect" and close it to view the output.
+## If you encounter a white screen, simply click "Inspect" and close it to view the output.
 
 First, run the development server:
 
